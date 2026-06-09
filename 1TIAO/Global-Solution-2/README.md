@@ -1,84 +1,169 @@
-# FIAP - Faculdade de Informática e Administração Paulista
+# FIAP — Faculdade de Informática e Administração Paulista
 
 <p align="center">
-<a href="https://www.fiap.com.br/">
-  <img src="../../../assets/logo-fiap.png" 
-       alt="FIAP - Faculdade de Informática e Administração Paulista" 
-       width="40%">
-</a>
+<a href="https://www.fiap.com.br/"><img src="../../../assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Administração Paulista" border="0" width=40% height=40%></a>
 </p>
 
 <br>
 
-# Nome do projeto/atividade
-
-## Nome do grupo
-
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do integrante 5</a>
-
-## 👩‍🏫 Professores:
-### Tutor(a) 
-- <a href="https://www.linkedin.com/in/sabrina-otoni-22525519b/">Nome do Tutor</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/in/andregodoichiovato/">Nome do Coordenador</a>
-
-
-## 📜 Descrição
-
-*Descreva seu projeto com base no texto da Global Solution (até 600 palavras)*
-
-
-## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>docs</b>: Pasta destinada à documentação textual, incluindo brainstorm, atas e registros de reuniões, desenhos, prints, diagramas, storyboard, estratégia de IA e arquitetura e etc.
-
-- <b>src</b>: Todo o código fonte desenvolvido, como scripts em Python, R, JS ou HTML, notebooks, códigos para ESP32/Arduino, APIs ou microsserviços, além de modelos, inferências e etc. Os tipos de arquivos e códigos são definidos no enunciado da atividade.
-
-- <b>data</b>: Contém os dados utilizados, como arquivos CSV, Excel, JSON, bases sintéticas e etc.
-
-- <b>README.md</b>: Arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
-
-‼️ OBSERVAÇÃO DO TUTOR, favor desconsiderar do seu arquivo final: não há obrigação de usar todas as pastas, use apenas o que fizer SENTIDO para a entrega. ‼️
-
-
-## 📎 Links e Observações
-
-- <b>Listagem de Links</b>: Links do projeto (ex. vídeos da entrega, páginas, etc.), 
-
-- <b>Explicação de decisões técnicas</b>: Observações do projeto,
-
-- <b>Observações Gerais</b>: Caso o projeto seja relacionado à alguma competição, deixar registrado no README se aceita ou não participar.
-
-
-## 🔧 Como executar o código
-
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório.*
-
-
-## 🗃 Histórico de lançamentos
-
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
-    *
+# 🛰️ Projeto OmniSat-AI: Inteligência Espacial para Resiliência Terrestre
+## 🌍 Global Solution 2026.1 — Graduação ON em Inteligência Artificial
 
 ---
 
+## 👨‍🎓 Integrantes do Grupo 34
+
+| Nome | RM | Turma |
+|---|---|---|
+| Fabricio Mouzer Brito | RM566777 | ON |
+| Enzo Nunes Castanheira Gloria da Silva | RM567599 | ON |
+| Larissa Nunes Moreira Reis | RM568280 | ON |
+| Gabriel Rapozo Guimarães Soares | RM568480 | ON |
+
+---
+
+## 👩‍🏫 Professores
+
+### Tutor(a)
+- Nome do Tutor
+
+### Coordenador(a)
+- <a href="https://www.linkedin.com/in/andregodoichiovato/">André Godoi Chiovato</a>
+
+---
+
+## 📜 Descrição
+
+O **OmniSat-AI** é uma plataforma unificada de monitoramento preventivo que utiliza imagens de observação da Terra (satélites) e Inteligência Artificial para antecipar eventos climáticos extremos.
+
+A solução democratiza os dados da "nova economia espacial" (*New Space*), convertendo terabytes de informações brutas orbitais em inteligência acionável e acessível. O projeto atua em duas frentes de impacto direto na superfície terrestre: a proteção da infraestrutura de comunidades urbanas vulneráveis contra desastres naturais (ODS 11) e a garantia da eficiência hídrica para a agricultura familiar (ODS 2).
+
+O sistema baseia-se na interseção entre a macrorregião (o que o satélite observa do espaço) e a microrregião (o que os sensores IoT confirmam na terra). Ao cruzar variáveis climáticas orbitais com métricas de relevo, construção irregular, umidade do solo e indicadores socioeconômicos, o OmniSat-AI atua como uma plataforma robusta de análise preditiva socioambiental.
+
+---
+
+## 📁 Estrutura de Pastas
+
+```
+Global-Solution-2/
+│
+├── src/
+│   ├── app.py              # Dashboard principal (Streamlit)
+│   └── backend.py          # Motor preditivo e gerador de dados simulados
+│
+├── data/
+│   └── omnisat_avancado.csv   # Base de dados gerada (criada ao rodar backend.py)
+│
+├── docs/
+│   ├── Projeto OmniSat-AI - Descrição e Aplicabilidade.pdf
+│   ├── image-d1.png            # Screenshots do dashboard
+│   ├── image-d2.png
+│   ├── image-d3.png
+│   ├── image-d4.png
+│   └── image-d5.png
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## 🛠️ Tecnologias e Arquitetura Técnica
+
+| Camada | Tecnologia | Função |
+|---|---|---|
+| Linguagem | Python 3.10+ | Base de toda a aplicação |
+| Interface / Dashboard | Streamlit | Renderização do painel interativo |
+| Análise de Dados | Pandas | Manipulação e correlação de variáveis socioambientais |
+| Visualização | Plotly Express | Gráficos de linha, dispersão e heatmap de correlação |
+| Geoprocessamento | Folium + Esri World Imagery API | Mapa de satélite interativo com bounding boxes de IA |
+| Motor Preditivo (IA) | Algoritmos de regressão ponderada | Cálculo do Score de Risco (0–100) por região |
+| Simulação IoT | Lógica ESP32 (payloads JSON) | Telemetria de sensores de umidade do solo |
+| Simulação Cloud | Arquitetura serverless AWS | Orquestração Lambda / SNS / SQS / CloudWatch |
+
+---
+
+## 🔧 Como Executar a POC
+
+### Pré-requisitos
+
+- Python 3.10 ou superior
+- Git instalado
+- Acesso à internet (necessário para imagens de satélite da Esri)
+
+### Passo a passo
+
+**1. Clone o repositório:**
+```bash
+git clone https://github.com/gabrielrapozo/GLOBALSOLUTION-G34.git
+cd GLOBALSOLUTION-G34/1TIAO/Global-Solution-2
+```
+
+**2. Instale as dependências:**
+```bash
+pip install -r requirements.txt
+```
+
+**3. Gere a base de dados simulada:**
+```bash
+python src/backend.py
+```
+
+**4. Inicie o dashboard:**
+```bash
+streamlit run src/app.py
+```
+
+**5. Acesse no navegador:**
+```
+http://localhost:8501
+```
+
+### Navegação no Dashboard
+
+| Aba | O que mostra |
+|---|---|
+| **Dashboard Geral** | Métricas em tempo real: regiões monitoradas, pico de chuva, risco médio e alertas críticos |
+| **Análises Estatísticas** | Matriz de correlação (Heatmap) e gráfico de dispersão entre pobreza, construção irregular e risco |
+| **Visão Computacional (IA)** | Mapa de satélite real (Esri) com bounding boxes simulando detecção YOLO/U-Net nas áreas de risco |
+| **Orquestração AWS** | Log do pipeline serverless com registros de alertas SNS/SQS e status da IA |
+
+---
+
+## ✅ Critérios de Avaliação Atendidos
+
+- [x] Sistemas inteligentes de monitoramento climático utilizando dados espaciais
+- [x] Aplicações de visão computacional para análise de imagens orbitais
+- [x] Redes neurais para previsão de eventos climáticos e produção agrícola
+- [x] Plataformas cognitivas para análise de grandes volumes de dados espaciais
+- [x] Sistemas autônomos e sensores inteligentes para ambientes extremos
+- [x] Aplicações em nuvem integradas a dados de satélite
+- [x] Soluções com AWS, Lambda, APIs e serviços cognitivos
+- [x] Plataformas de recomendação e análise preditiva
+- [x] Sistemas de detecção, classificação e segmentação de objetos
+- [x] Aplicações de IoT e ESP32 para monitoramento remoto
+- [x] Soluções sustentáveis inspiradas na exploração espacial
+
+---
+
+## 📎 Links e Observações
+
+- **Repositório GitHub:** https://github.com/gabrielrapozo/GLOBALSOLUTION-G34
+- **Vídeo Demonstrativo:** [a inserir]
+- **Documentação técnica:** ver pasta `docs/`
+
+> ⚠️ Este projeto **aceita participar** da competição Global Solution 2026.1.
+
+---
+
+## 🗃 Histórico de Lançamentos
+
+* 1.0.0 - 09/06/2026
+    * POC completa com dashboard Streamlit, motor preditivo e simulação AWS
+
+---
 
 ## 📋 Licença
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/SabrinaOtoni/TEMPLATE-FIAP-GRAD-ON-IA">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">FIAP</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+Projeto acadêmico desenvolvido para a **Global Solution 2026.1** da FIAP — Faculdade de Informática e Administração Paulista.
+Todos os direitos reservados aos integrantes do Grupo 34.

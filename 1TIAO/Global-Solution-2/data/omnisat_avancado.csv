@@ -1,0 +1,301 @@
+data_hora,regiao,tipo,idh,indice_pobreza_pct,construcao_irregular_pct,inclinacao_graus,precipitacao_mm,umidade_solo_pct,score_risco,status_ia,alerta_sns
+2026-06-02 15:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,28.1,15.5,21.1,Normal,[SQS] Monitoramento estável.
+2026-06-02 15:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,28.1,13.9,26.0,Normal,[SQS] Monitoramento estável.
+2026-06-02 15:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,28.1,79.0,71.3,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-02 16:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,21.7,35.7,55.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-02 16:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,21.7,31.3,22.6,Normal,[SQS] Monitoramento estável.
+2026-06-02 16:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,21.7,53.6,34.7,Normal,[SQS] Monitoramento estável.
+2026-06-02 17:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,7.4,82.6,62.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-02 17:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,7.4,88.8,32.7,Normal,[SQS] Monitoramento estável.
+2026-06-02 17:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,7.4,23.7,18.6,Normal,[SQS] Monitoramento estável.
+2026-06-02 18:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,53.9,92.5,57.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-02 18:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,53.9,93.8,62.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-02 18:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,53.9,78.2,84.0,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-02 19:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,21.0,34.2,23.2,Normal,[SQS] Monitoramento estável.
+2026-06-02 19:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,21.0,51.1,33.6,Normal,[SQS] Monitoramento estável.
+2026-06-02 19:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,21.0,75.8,66.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-02 20:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,43.4,40.1,36.1,Normal,[SQS] Monitoramento estável.
+2026-06-02 20:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,43.4,78.9,53.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-02 20:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,43.4,93.7,83.4,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-02 21:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,52.0,61.5,46.9,Normal,[SQS] Monitoramento estável.
+2026-06-02 21:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,52.0,34.4,44.1,Normal,[SQS] Monitoramento estável.
+2026-06-02 21:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,52.0,85.9,85.4,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-02 22:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,5.1,71.2,57.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-02 22:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,5.1,39.5,22.2,Normal,[SQS] Monitoramento estável.
+2026-06-02 22:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,5.1,65.5,24.6,Normal,[SQS] Monitoramento estável.
+2026-06-02 23:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,58.8,59.9,55.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-02 23:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,58.8,52.3,78.7,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-02 23:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,58.8,80.9,56.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-03 00:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,53.6,60.1,47.2,Normal,[SQS] Monitoramento estável.
+2026-06-03 00:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,53.6,89.3,61.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-03 00:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,53.6,83.8,85.5,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 01:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,30.8,20.9,24.1,Normal,[SQS] Monitoramento estável.
+2026-06-03 01:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,30.8,27.4,31.4,Normal,[SQS] Monitoramento estável.
+2026-06-03 01:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,30.8,94.3,77.3,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 02:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,18.9,21.0,18.1,Normal,[SQS] Monitoramento estável.
+2026-06-03 02:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,18.9,44.6,30.6,Normal,[SQS] Monitoramento estável.
+2026-06-03 02:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,18.9,27.9,51.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 03:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,37.7,15.3,25.8,Normal,[SQS] Monitoramento estável.
+2026-06-03 03:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,37.7,71.3,48.0,Normal,[SQS] Monitoramento estável.
+2026-06-03 03:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,37.7,43.3,65.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 04:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,44.2,76.0,78.5,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 04:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,44.2,42.7,37.3,Normal,[SQS] Monitoramento estável.
+2026-06-03 04:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,44.2,48.1,44.3,Normal,[SQS] Monitoramento estável.
+2026-06-03 05:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,10.6,25.0,20.6,Normal,[SQS] Monitoramento estável.
+2026-06-03 05:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,10.6,74.4,61.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 05:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,10.6,92.2,35.4,Normal,[SQS] Monitoramento estável.
+2026-06-03 06:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,21.1,82.6,37.7,Normal,[SQS] Monitoramento estável.
+2026-06-03 06:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,21.1,35.2,28.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 06:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,21.1,85.6,69.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 07:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,38.8,81.0,46.1,Normal,[SQS] Monitoramento estável.
+2026-06-03 07:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,38.8,23.0,59.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 07:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,38.8,90.6,54.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-03 08:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,26.4,61.1,33.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 08:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,26.4,68.6,41.6,Normal,[SQS] Monitoramento estável.
+2026-06-03 08:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,26.4,80.3,70.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 09:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,54.9,78.8,53.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-03 09:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,54.9,29.9,44.2,Normal,[SQS] Monitoramento estável.
+2026-06-03 09:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,54.9,19.1,66.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 10:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,25.0,63.5,65.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 10:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,25.0,91.9,47.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 10:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,25.0,83.0,39.8,Normal,[SQS] Monitoramento estável.
+2026-06-03 11:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,19.3,69.5,32.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 11:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,19.3,43.5,30.5,Normal,[SQS] Monitoramento estável.
+2026-06-03 11:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,19.3,31.9,52.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 12:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,59.2,63.0,50.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-03 12:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,59.2,75.5,60.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-03 12:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,59.2,67.8,83.5,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 13:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,54.7,25.1,68.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 13:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,54.7,84.6,55.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-03 13:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,54.7,33.2,45.1,Normal,[SQS] Monitoramento estável.
+2026-06-03 14:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,44.1,47.6,38.7,Normal,[SQS] Monitoramento estável.
+2026-06-03 14:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,44.1,61.3,48.2,Normal,[SQS] Monitoramento estável.
+2026-06-03 14:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,44.1,87.3,81.8,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 15:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,30.4,66.2,37.5,Normal,[SQS] Monitoramento estável.
+2026-06-03 15:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,30.4,32.9,32.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 15:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,30.4,67.8,69.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 16:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,53.7,81.0,84.8,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 16:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,53.7,15.7,39.4,Normal,[SQS] Monitoramento estável.
+2026-06-03 16:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,53.7,42.2,41.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 17:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,16.0,66.4,61.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 17:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,16.0,51.5,25.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 17:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,16.0,27.9,24.2,Normal,[SQS] Monitoramento estável.
+2026-06-03 18:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,5.1,16.4,41.1,Normal,[SQS] Monitoramento estável.
+2026-06-03 18:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,5.1,11.7,8.5,Normal,[SQS] Monitoramento estável.
+2026-06-03 18:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,5.1,36.1,21.2,Normal,[SQS] Monitoramento estável.
+2026-06-03 19:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,59.7,32.1,41.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 19:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,59.7,27.0,45.8,Normal,[SQS] Monitoramento estável.
+2026-06-03 19:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,59.7,59.7,81.4,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 20:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,16.9,60.3,28.9,Normal,[SQS] Monitoramento estável.
+2026-06-03 20:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,16.9,13.3,20.2,Normal,[SQS] Monitoramento estável.
+2026-06-03 20:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,16.9,79.0,65.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 21:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,34.2,22.7,26.3,Normal,[SQS] Monitoramento estável.
+2026-06-03 21:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,34.2,51.7,40.4,Normal,[SQS] Monitoramento estável.
+2026-06-03 21:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,34.2,26.6,58.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-03 22:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,51.2,58.4,45.5,Normal,[SQS] Monitoramento estável.
+2026-06-03 22:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,51.2,26.9,41.5,Normal,[SQS] Monitoramento estável.
+2026-06-03 22:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,51.2,67.8,79.5,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 23:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,34.2,93.1,78.6,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-03 23:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,34.2,19.4,25.3,Normal,[SQS] Monitoramento estável.
+2026-06-03 23:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,34.2,55.2,41.5,Normal,[SQS] Monitoramento estável.
+2026-06-04 00:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,37.7,54.7,37.7,Normal,[SQS] Monitoramento estável.
+2026-06-04 00:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,37.7,33.8,36.8,Normal,[SQS] Monitoramento estável.
+2026-06-04 00:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,37.7,58.1,69.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 01:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,46.3,94.3,53.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-04 01:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,46.3,65.7,50.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-04 01:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,46.3,23.8,63.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 02:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,12.2,79.9,63.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 02:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,12.2,59.7,31.8,Normal,[SQS] Monitoramento estável.
+2026-06-04 02:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,12.2,34.8,18.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 03:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,54.1,60.4,47.6,Normal,[SQS] Monitoramento estável.
+2026-06-04 03:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,54.1,89.8,61.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-04 03:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,54.1,84.6,86.0,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-04 04:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,50.9,55.0,44.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 04:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,50.9,24.9,40.7,Normal,[SQS] Monitoramento estável.
+2026-06-04 04:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,50.9,32.3,68.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 05:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,19.1,39.4,55.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 05:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,19.1,49.5,32.2,Normal,[SQS] Monitoramento estável.
+2026-06-04 05:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,19.1,68.8,32.6,Normal,[SQS] Monitoramento estável.
+2026-06-04 06:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,2.6,12.5,38.7,Normal,[SQS] Monitoramento estável.
+2026-06-04 06:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,2.6,17.7,9.0,Normal,[SQS] Monitoramento estável.
+2026-06-04 06:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,2.6,90.9,36.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 07:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,49.9,11.6,30.8,Normal,[SQS] Monitoramento estável.
+2026-06-04 07:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,49.9,28.0,41.1,Normal,[SQS] Monitoramento estável.
+2026-06-04 07:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,49.9,12.0,62.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 08:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,12.9,87.9,35.2,Normal,[SQS] Monitoramento estável.
+2026-06-04 08:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,12.9,52.6,30.0,Normal,[SQS] Monitoramento estável.
+2026-06-04 08:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,12.9,52.3,55.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 09:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,56.0,18.4,35.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 09:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,56.0,33.5,45.8,Normal,[SQS] Monitoramento estável.
+2026-06-04 09:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,56.0,42.1,74.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 10:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,32.7,51.1,34.1,Normal,[SQS] Monitoramento estável.
+2026-06-04 10:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,32.7,73.5,46.2,Normal,[SQS] Monitoramento estável.
+2026-06-04 10:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,32.7,78.7,73.6,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 11:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,38.5,43.9,66.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 11:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,38.5,80.4,51.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-04 11:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,38.5,28.7,30.3,Normal,[SQS] Monitoramento estável.
+2026-06-04 12:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,22.6,18.8,24.7,Normal,[SQS] Monitoramento estável.
+2026-06-04 12:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,22.6,67.7,65.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 12:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,22.6,20.9,20.0,Normal,[SQS] Monitoramento estável.
+2026-06-04 13:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,49.3,89.7,54.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-04 13:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,49.3,61.6,50.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-04 13:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,49.3,52.4,74.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 14:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,12.3,83.0,33.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 14:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,12.3,38.6,25.5,Normal,[SQS] Monitoramento estável.
+2026-06-04 14:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,12.3,86.1,65.6,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 15:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,28.4,18.8,22.2,Normal,[SQS] Monitoramento estável.
+2026-06-04 15:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,28.4,37.8,33.3,Normal,[SQS] Monitoramento estável.
+2026-06-04 15:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,28.4,92.9,75.7,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-04 16:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,17.7,17.6,16.5,Normal,[SQS] Monitoramento estável.
+2026-06-04 16:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,17.7,24.1,23.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 16:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,17.7,16.6,47.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 17:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,12.8,88.6,35.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 17:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,12.8,13.8,44.1,Normal,[SQS] Monitoramento estável.
+2026-06-04 17:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,12.8,65.7,33.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 18:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,25.2,29.4,29.2,Normal,[SQS] Monitoramento estável.
+2026-06-04 18:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,25.2,90.9,42.3,Normal,[SQS] Monitoramento estável.
+2026-06-04 18:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,25.2,78.8,69.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 19:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,50.0,55.8,44.1,Normal,[SQS] Monitoramento estável.
+2026-06-04 19:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,50.0,43.6,45.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 19:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,50.0,62.3,77.3,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-04 20:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,43.2,90.9,51.3,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-04 20:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,43.2,66.8,49.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 20:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,43.2,58.8,72.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 21:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,28.2,24.8,23.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 21:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,28.2,92.6,49.7,Normal,[SQS] Monitoramento estável.
+2026-06-04 21:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,28.2,77.9,71.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-04 22:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,46.5,77.5,48.9,Normal,[SQS] Monitoramento estável.
+2026-06-04 22:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,46.5,24.6,38.4,Normal,[SQS] Monitoramento estável.
+2026-06-04 22:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,46.5,92.0,84.4,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-04 23:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,16.4,75.7,33.3,Normal,[SQS] Monitoramento estável.
+2026-06-04 23:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,16.4,64.0,35.2,Normal,[SQS] Monitoramento estável.
+2026-06-04 23:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,16.4,44.1,55.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 00:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,21.9,91.0,71.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 00:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,21.9,46.3,27.2,Normal,[SQS] Monitoramento estável.
+2026-06-05 00:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,21.9,47.0,32.8,Normal,[SQS] Monitoramento estável.
+2026-06-05 01:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,37.0,32.0,35.9,Normal,[SQS] Monitoramento estável.
+2026-06-05 01:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,37.0,19.2,57.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 01:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,37.0,11.6,24.4,Normal,[SQS] Monitoramento estável.
+2026-06-05 02:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,54.6,71.0,51.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-05 02:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,54.6,94.5,63.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-05 02:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,54.6,85.8,86.6,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 03:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,10.6,62.3,26.4,Normal,[SQS] Monitoramento estável.
+2026-06-05 03:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,10.6,73.0,60.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 03:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,10.6,74.7,35.5,Normal,[SQS] Monitoramento estável.
+2026-06-05 04:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,45.4,58.8,42.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 04:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,45.4,43.3,43.5,Normal,[SQS] Monitoramento estável.
+2026-06-05 04:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,45.4,74.0,78.5,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 05:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,40.5,90.3,49.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 05:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,40.5,35.8,38.8,Normal,[SQS] Monitoramento estável.
+2026-06-05 05:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,40.5,88.0,80.2,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 06:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,27.1,44.4,60.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 06:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,27.1,51.9,36.9,Normal,[SQS] Monitoramento estável.
+2026-06-05 06:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,27.1,73.3,37.9,Normal,[SQS] Monitoramento estável.
+2026-06-05 07:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,17.7,35.6,53.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 07:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,17.7,28.9,19.9,Normal,[SQS] Monitoramento estável.
+2026-06-05 07:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,17.7,86.1,42.5,Normal,[SQS] Monitoramento estável.
+2026-06-05 08:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,59.9,67.6,52.6,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-05 08:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,59.9,72.3,59.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-05 08:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,59.9,77.6,86.8,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 09:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,23.0,81.1,38.2,Normal,[SQS] Monitoramento estável.
+2026-06-05 09:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,23.0,61.4,37.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 09:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,23.0,26.9,53.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 10:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,56.4,38.2,42.1,Normal,[SQS] Monitoramento estável.
+2026-06-05 10:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,56.4,40.8,48.2,Normal,[SQS] Monitoramento estável.
+2026-06-05 10:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,56.4,37.2,73.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 11:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,59.8,11.4,35.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 11:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,59.8,79.9,61.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-05 11:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,59.8,94.9,92.0,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 12:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,1.1,44.8,47.6,Normal,[SQS] Monitoramento estável.
+2026-06-05 12:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,1.1,94.8,31.4,Normal,[SQS] Monitoramento estável.
+2026-06-05 12:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,1.1,80.9,32.6,Normal,[SQS] Monitoramento estável.
+2026-06-05 13:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,0.9,64.0,22.0,Normal,[SQS] Monitoramento estável.
+2026-06-05 13:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,0.9,16.6,13.2,Normal,[SQS] Monitoramento estável.
+2026-06-05 13:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,0.9,90.7,61.3,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 14:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,16.3,67.3,30.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 14:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,16.3,62.2,34.6,Normal,[SQS] Monitoramento estável.
+2026-06-05 14:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,16.3,74.3,64.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 15:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,2.6,19.8,40.8,Normal,[SQS] Monitoramento estável.
+2026-06-05 15:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,2.6,64.4,28.4,Normal,[SQS] Monitoramento estável.
+2026-06-05 15:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,2.6,53.2,19.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 16:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,21.7,10.9,16.5,Normal,[SQS] Monitoramento estável.
+2026-06-05 16:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,21.7,48.6,33.2,Normal,[SQS] Monitoramento estável.
+2026-06-05 16:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,21.7,22.2,51.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 17:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,26.5,36.5,26.6,Normal,[SQS] Monitoramento estável.
+2026-06-05 17:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,26.5,93.5,49.1,Normal,[SQS] Monitoramento estável.
+2026-06-05 17:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,26.5,81.8,71.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 18:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,58.1,61.1,81.0,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 18:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,58.1,66.1,56.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-05 18:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,58.1,92.4,59.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-05 19:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,2.3,38.2,15.0,Normal,[SQS] Monitoramento estável.
+2026-06-05 19:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,2.3,67.2,29.1,Normal,[SQS] Monitoramento estável.
+2026-06-05 19:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,2.3,28.6,43.3,Normal,[SQS] Monitoramento estável.
+2026-06-05 20:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,47.1,12.9,29.8,Normal,[SQS] Monitoramento estável.
+2026-06-05 20:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,47.1,79.7,55.3,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-05 20:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,47.1,86.5,83.1,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-05 21:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,5.5,68.1,25.6,Normal,[SQS] Monitoramento estável.
+2026-06-05 21:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,5.5,17.4,15.8,Normal,[SQS] Monitoramento estável.
+2026-06-05 21:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,5.5,89.1,63.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 22:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,14.9,39.6,52.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-05 22:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,14.9,12.8,13.7,Normal,[SQS] Monitoramento estável.
+2026-06-05 22:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,14.9,93.8,43.4,Normal,[SQS] Monitoramento estável.
+2026-06-05 23:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,0.6,43.7,15.8,Normal,[SQS] Monitoramento estável.
+2026-06-05 23:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,0.6,13.1,12.0,Normal,[SQS] Monitoramento estável.
+2026-06-05 23:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,0.6,29.8,42.8,Normal,[SQS] Monitoramento estável.
+2026-06-06 00:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,49.0,37.8,38.2,Normal,[SQS] Monitoramento estável.
+2026-06-06 00:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,49.0,54.4,48.6,Normal,[SQS] Monitoramento estável.
+2026-06-06 00:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,49.0,69.6,79.0,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-06 01:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,35.1,15.5,55.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 01:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,35.1,68.1,40.4,Normal,[SQS] Monitoramento estável.
+2026-06-06 01:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,35.1,29.3,34.1,Normal,[SQS] Monitoramento estável.
+2026-06-06 02:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,10.8,54.0,24.0,Normal,[SQS] Monitoramento estável.
+2026-06-06 02:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,10.8,82.7,38.0,Normal,[SQS] Monitoramento estável.
+2026-06-06 02:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,10.8,14.1,43.2,Normal,[SQS] Monitoramento estável.
+2026-06-06 03:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,57.8,85.1,56.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-06 03:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,57.8,68.9,57.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-06 03:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,57.8,36.2,73.4,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 04:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,15.1,86.9,67.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 04:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,15.1,20.7,16.2,Normal,[SQS] Monitoramento estável.
+2026-06-06 04:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,15.1,88.9,42.0,Normal,[SQS] Monitoramento estável.
+2026-06-06 05:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,15.4,22.2,16.8,Normal,[SQS] Monitoramento estável.
+2026-06-06 05:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,15.4,88.7,42.1,Normal,[SQS] Monitoramento estável.
+2026-06-06 05:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,15.4,69.3,62.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 06:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,1.4,43.6,16.2,Normal,[SQS] Monitoramento estável.
+2026-06-06 06:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,1.4,39.1,20.2,Normal,[SQS] Monitoramento estável.
+2026-06-06 06:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,1.4,38.9,46.0,Normal,[SQS] Monitoramento estável.
+2026-06-06 07:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,54.8,43.9,74.2,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 07:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,54.8,73.8,51.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Bairro Nobre Vale.
+2026-06-06 07:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,54.8,65.2,54.8,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-06 08:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,36.2,56.5,68.7,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 08:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,36.2,34.0,30.7,Normal,[SQS] Monitoramento estável.
+2026-06-06 08:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,36.2,61.3,44.3,Normal,[SQS] Monitoramento estável.
+2026-06-06 09:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,31.9,10.8,21.6,Normal,[SQS] Monitoramento estável.
+2026-06-06 09:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,31.9,88.6,50.3,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-06 09:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,31.9,28.4,58.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 10:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,7.9,80.6,30.5,Normal,[SQS] Monitoramento estável.
+2026-06-06 10:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,7.9,36.7,22.8,Normal,[SQS] Monitoramento estável.
+2026-06-06 10:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,7.9,58.4,55.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 11:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,36.6,66.3,40.6,Normal,[SQS] Monitoramento estável.
+2026-06-06 11:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,36.6,80.0,50.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-06 11:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,36.6,65.3,71.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 12:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,38.4,57.7,38.9,Normal,[SQS] Monitoramento estável.
+2026-06-06 12:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,38.4,62.5,45.8,Normal,[SQS] Monitoramento estável.
+2026-06-06 12:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,38.4,90.9,80.1,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-06 13:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,38.8,33.6,63.1,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 13:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,38.8,44.3,40.5,Normal,[SQS] Monitoramento estável.
+2026-06-06 13:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,38.8,20.5,27.9,Normal,[SQS] Monitoramento estável.
+2026-06-06 14:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,53.2,37.0,40.1,Normal,[SQS] Monitoramento estável.
+2026-06-06 14:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,53.2,75.2,57.0,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-06 14:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,53.2,56.9,77.3,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-06 15:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,44.3,70.5,45.7,Normal,[SQS] Monitoramento estável.
+2026-06-06 15:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,44.3,27.6,38.2,Normal,[SQS] Monitoramento estável.
+2026-06-06 15:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,44.3,87.9,82.1,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-06 16:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,31.3,55.1,34.6,Normal,[SQS] Monitoramento estável.
+2026-06-06 16:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,31.3,50.3,38.5,Normal,[SQS] Monitoramento estável.
+2026-06-06 16:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,31.3,17.6,54.5,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
+2026-06-06 17:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,53.7,61.0,47.6,Normal,[SQS] Monitoramento estável.
+2026-06-06 17:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,53.7,86.6,60.6,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Horta Familiar Leste.
+2026-06-06 17:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,53.7,71.3,81.8,CRÍTICO - Evacuação,[SNS] Risco eminente na Comunidade Encosta Sul! Deslizamento provável.
+2026-06-06 18:18:20,Bairro Nobre Vale,Urbana,0.89,5.0,2.0,5,12.5,13.2,12.6,Normal,[SQS] Monitoramento estável.
+2026-06-06 18:18:20,Horta Familiar Leste,Agrícola,0.72,25.0,15.0,12,12.5,89.7,41.0,Normal,[SQS] Monitoramento estável.
+2026-06-06 18:18:20,Comunidade Encosta Sul,Urbana,0.61,42.0,78.0,45,12.5,56.7,56.9,ALERTA - Atenção,[SNS] Chuva e saturação elevadas na Comunidade Encosta Sul.
